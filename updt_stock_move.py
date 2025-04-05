@@ -32,6 +32,3 @@ print("Updated Record Details:")
 print(f"Name: {updated_record[0]['name']}")
 print(f"Product ID: {updated_record[0]['product_id'][1]}")  # product_id is a tuple (id, name)
 print(f"Forecast Availability: {updated_record[0]['forecast_availability']}")
-
-# git push to revert
-
