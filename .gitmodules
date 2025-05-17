@@ -1,3 +1,6 @@
 [submodule "subrepos/sample-repo"]
 	path = subrepos/sample-repo
 	url = https://github.com/swaroop0797/git_tutorial.git
+[submodule "subrepos/test_repo"]
+	path = subrepos/test_repo
+	url = https://github.com/swaroop0797/git_tutorial.git
